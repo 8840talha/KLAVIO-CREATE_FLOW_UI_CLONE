@@ -1,0 +1,17 @@
+.paper{
+     padding: "10px";
+     background-color: "light-gray";
+ }
+
+.h1{ 
+    display: "inline-block";
+    vertical-align: "middle";
+     color: "white" 
+    }
+    
+.form{
+        display: "inline-block";
+         vertical-align: "middle";
+          margin-left: "10px";
+        color: "white"
+    }

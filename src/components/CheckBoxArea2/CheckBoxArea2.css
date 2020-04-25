@@ -1,0 +1,27 @@
+.ContainerC{
+    margin-top: 170px;;
+    background-color:lightgray;
+    height:50px;
+    width:250px;
+    border:none;
+ 
+ }
+ 
+ .CheckBoxArea2{
+    background-color:lightgray;
+    height:80px;
+    width:250px;
+    border:none ;
+    align-content: flex-end;
+     padding-bottom: 20px;;
+ }
+ .ButtonC{
+    float:right;
+ 
+   
+ }
+ h6{
+    margin-top: 0; 
+ }
+ 
+ 

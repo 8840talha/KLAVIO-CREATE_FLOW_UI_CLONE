@@ -1,0 +1,17 @@
+.SmallCard{
+
+  
+    background: white;
+    width: 30%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    border-radius: none;
+    padding: 2%;
+    border:1px solid white;
+    float: left;
+    margin-right: 10px;
+    margin-top: 15px;
+    margin-left: 20px;;
+  
+}

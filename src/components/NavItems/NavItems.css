@@ -1,0 +1,17 @@
+.NavItems{
+    display: inline-flex;
+    float: right; 
+}
+.dropdown{
+
+    display: inline-block;
+    color:lightgray;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 15px;
+
+}
+.dropdown :hover{
+    background-color:#eee ;
+    
+}

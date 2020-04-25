@@ -1,0 +1,12 @@
+.RightArea{
+    background: whitesmoke;
+    width: 70%;
+    height: 800px;
+    display: inline-block;
+    flex-direction: column;
+    border-radius: none;
+    padding: 2%;
+    border:none;
+    
+   
+}
